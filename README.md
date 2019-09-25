@@ -2,13 +2,12 @@
 
 In this repo, we provide the code and the datasets that we use to conduct this research topic. 
 
-## Notice, BELLOW is only the example citation I copied from your homepage, when you uploaded to the real git repo, please change it to the actual citation 
 Xiang Zhang, Xiaocong Chen, Lina Yao, Chang Ge, and Manqing Dong. Deep Neural Network Hyperparameter Optimization with Orthogonal Array Tuning. The 26th Interna tional Conference On Neural Information Processing (ICONIP 2019). Sydney, Australia, December 12-15, 2019. Retrieved from: https://arxiv.org/abs/1907.13359
 
 
 ### CNN and RNN
 
-- The code for CNN is in [CNN.py](https://github.com/) and the code for RNN is in [RNN.py](https://github.com/)
+- The code for CNN is in CNN.py and the code for RNN is in RNN.py
 - In this code, the default data is EEG data, the other two data sets are commented. In order to run other datasets, simply comment the "EEG" part and uncomment the wanted datasets
 ```python
 # ---------------- EEG data ----------------
